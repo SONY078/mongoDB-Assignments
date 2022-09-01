@@ -15,7 +15,7 @@ const dbSchema = mongoose.Schema({
   gradStream: String
 })
 
-var rec1 = [{"firstName": "John",
+var data = [{"firstName": "John",
 "lastName": "Doe",
 "salary": "25000",
 "department": "HR",
